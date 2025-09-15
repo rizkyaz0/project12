@@ -1,5 +1,5 @@
         <div class="container-fluid about py-5">
-            <?php include ("stocker/conetnt/about.php"); ?>
+            <?php include ("stocker/content/about.php"); ?>
                    
         </div>
         <!-- Services Start -->

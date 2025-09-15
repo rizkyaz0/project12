@@ -4,6 +4,8 @@ error_reporting(0);
 if ($_COOKIE['id'] != '') {
     include 'dashboard.php';
 }else{
+
+    $active[2][0] = "active";
     include 'stocker-home.php';
 }
 ?>
